@@ -1,8 +1,8 @@
 ## koniq-PyTorch
 
-A Pytorch reproduction of No-Reference Image Quality Assessment (NR-IQA) models trained on the KonIQ-10k dataset, proposed in the paper ["KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment"](https://arxiv.org/abs/1910.06180)
+A Pytorch reproduction of No-Reference Image Quality Assessment (NR-IQA) models trained on the KonIQ-10k dataset, proposed in the paper ["KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment"](https://arxiv.org/abs/1910.06180).
 
-The code is based on [koncept512_train_test_py3.ipynb](https://github.com/subpic/koniq/blob/master/koncept512_train_test_py3.ipynb) provided in the [official repository](https://github.com/subpic/koniq)
+The code is based on [koncept512_train_test_py3.ipynb](https://github.com/subpic/koniq/blob/master/koncept512_train_test_py3.ipynb) provided in the [official repository](https://github.com/subpic/koniq).
 
 
 # Download the KonIQ-10k dataset:
