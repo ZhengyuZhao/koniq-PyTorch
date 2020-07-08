@@ -14,16 +14,3 @@ The code is based on [koncept512_train_test_py3.ipynb](https://github.com/subpic
 -Traing/test code in [koncept512_train_test_pytorch.ipynb](https://github.com/ZhengyuZhao/koniq-PyTorch/blob/master/koncept512_train_test_pytorch.ipynb).
 
 -The [pre-trained model](https://surfdrive.surf.nl/files/index.php/s/oeGv7wEyyMwwbIO) is also available.
-
-Please cite the following paper if you use the code:
-```
-@article{hosu2020koniq,
-  title={KonIQ-10k: An ecologically valid database for deep learning of blind image quality assessment},
-  author={Hosu, Vlad and Lin, Hanhe and Sziranyi, Tamas and Saupe, Dietmar},
-  journal={IEEE Transactions on Image Processing},
-  volume={29},
-  pages={4041--4056},
-  year={2020},
-  publisher={IEEE}
-}
-```
