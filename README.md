@@ -8,7 +8,9 @@ The code is based on [koncept512_train_test_py3.ipynb](https://github.com/subpic
 # Download the KonIQ-10k dataset with ground truth:
 
 ```wget "http://datasets.vqa.mmsp-kn.de/archives/koniq10k_512x384.zip"```
+
 ```wget "https://github.com/subpic/koniq/blob/master/metadata/koniq10k_distributions_sets.csv"```
+
 ```unzip koniq10k_512x384.zip```  
 
 # Train/test the optimal koncept512 model in the paper:
